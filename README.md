@@ -1,6 +1,6 @@
 <h1>Hi, I'm Momo! A passionate Cybersecurity Analyst </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b> Cloud/Azure Project(AlgoExpert)</b>
   - Creating a live SOC/Honeynet in Azure
