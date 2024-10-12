@@ -1,9 +1,9 @@
 <h1>Hi, I'm Momo! A passionate Cybersecurity Analyst </h1>
 
-<h2>👨‍💻 Cybersecurity Project:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Cloud Project(AlgoExpert)</b>
-  - Creating a large SOC/Honey net in Azure
+- <b> Cloud/Azure Project(AlgoExpert)</b>
+  - Creating a live SOC/Honeynet in Azure
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
