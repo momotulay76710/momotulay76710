@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Project:</h2>
 
-- <b> Creating a large SOC / Honey net in Azure(AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Cloud Project(AlgoExpert)</b>
+  - Creating a large SOC/Honey net in Azure
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
